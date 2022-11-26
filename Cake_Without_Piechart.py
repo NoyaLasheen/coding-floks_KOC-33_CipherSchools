@@ -1,10 +1,11 @@
-# Python Project for dividing a cake into pieces in three different ways as follows :
+# Python Project for dividing a cake into 
+# "n" number of pieces in three different ways as follows :
     # Into n number of equal pieces
     # Into n number of unequal pieces
     # Into n number of random pieces
 
-# Group Name : coding-folks
-# Section : KOC 33
+# Group Name :      coding-folks
+# Section    :      KOC 33
 # Group members 
     # Name                      Roll No.     Reg No.
     # Noya Lasheen              B67          12218742
