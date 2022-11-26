@@ -4,8 +4,8 @@
     # Into n number of unequal pieces
     # Into n number of random pieces
 
-# Group Name : coding-folks
-# Section : KOC 33
+# Group Name :  coding-folks
+# Section    :  KOC 33
 # Group members 
     # Name                      Roll No.      Reg No.
     # Noya Lasheen              B 67          12218742
