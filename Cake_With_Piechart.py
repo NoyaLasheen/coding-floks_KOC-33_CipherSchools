@@ -1,4 +1,5 @@
-# Python Project for dividing a cake into pieces in three different ways as follows :
+# Python Project for dividing a cake into 
+# "n" number of pieces in three different ways as follows :
     # Into n number of equal pieces
     # Into n number of unequal pieces
     # Into n number of random pieces
